@@ -1,7 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to pranavsuri.com
 ---
 
-This is a blank Quartz installation.
-- This is a test line to check the sync b/w local and GitHub.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+A digital garden — learning in public, one note at a time.
